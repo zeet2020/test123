@@ -1,11 +1,11 @@
 
 
 
-[section 1](#section)
-[section 2](#section2)
-[section 3[(#section3)
-[test](./folder1/test.md)
-[about][./folder1/test.md#about)
+1. [section 1](#section)
+2. [section 2](#section2)
+3. [section 3](#section3)
+4. [test](./folder1/test.md)
+5. [about](./folder1/test.md#about)
 
 
 
